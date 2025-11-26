@@ -4,4 +4,5 @@ Tall
 Awesome
 Chill
 Handsome
+Smart
 These are the qualities of Marc.
